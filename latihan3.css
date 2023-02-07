@@ -1,0 +1,30 @@
+body{
+    font-family: 'Manrope', sans-serif;
+    background-color: white;
+}
+
+span {
+    color: #3C9379;
+}
+
+a.navbar-brand {
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+}
+
+h5 {
+    font-weight: bold;
+    margin-left: 30px;
+}
